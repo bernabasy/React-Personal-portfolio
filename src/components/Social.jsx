@@ -5,12 +5,9 @@ const SocialShare = [
     iconName: "fab fa-linkedin",
     link: "https://www.linkedin.com/in/bernabasjosef/",
   },
-  { iconName: "fa fa-twitter", link: "https://twitter.com/" },
-  {
-    iconName: "fa fa-youtube",
-    link: "https://www.youtube.com/",
-  },
-  { iconName: "fa fa-dribbble", link: "https://dribbble.com/" },
+  { iconName: "fab fa-github", link: "https://github.com/bernabasy" },
+  { iconName: "fa fa-twitter", link: "https://twitter.com/bernabasjosef" },
+  { iconName: "fab fa-github", link: "https://wellfound.com/u/bernabas-yosef" },
 ];
 
 const Social = () => {
